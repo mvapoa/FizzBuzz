@@ -1,4 +1,4 @@
-# Softplan
+# FizzBuzz
 ## Tecnologias Usadas
 Abaixo está a lista das tecnologias usadas para este projeto.
 - Java 8: Os micro-serviços foram criados para rodar usando o Java 8.
